@@ -4,14 +4,18 @@ A VB.NET Project that features the basic CREATE, READ, UPDATE, and DELETE operat
 
 ## Clone and Run
 
-*Step 1. Clone this repository* 
+*Step 1. Clone this repository*
+
 ![image](https://user-images.githubusercontent.com/109223910/233275604-96bdd522-0720-4135-a7f2-0818894b0a3d.png)
 
 *Step 2. Paste [Link](https://github.com/deJames-13/Espinosa-CrudSystem_ByGroup)*
+
 ![image](https://user-images.githubusercontent.com/109223910/233275886-e86387b3-ae53-4e1e-9b10-a3baac513965.png)
 
 *Step 3. Run*
+
 ![image](https://user-images.githubusercontent.com/109223910/233276054-7791a210-8fb8-4b07-8200-9e9bbd1f8d9c.png)
+---
 
 ## Code Modules
 ### FormCRUD.vb

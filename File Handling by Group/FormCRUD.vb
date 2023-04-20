@@ -66,7 +66,6 @@ Module FormCRUD
             End If
             i += 1
         End While
-
     End Sub
 
     ' DELETE ITEM
@@ -90,8 +89,6 @@ Module FormCRUD
             End If
             i += 1
         End While
-
-
     End Sub
 
 

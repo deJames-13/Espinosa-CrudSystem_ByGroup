@@ -151,7 +151,6 @@
 
 
         SelectedItem = ReadItem(currentItemId)
-        logs.Text = currentItemId & ": " & SelectedItem & " :" & itemPos
         Return 1
     End Function
 

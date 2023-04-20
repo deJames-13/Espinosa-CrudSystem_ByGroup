@@ -1,0 +1,16 @@
+11=11,snacks,45,7,315.00
+22=22,beverages,80,2,160.00
+44=44,books,20,15,300.00
+33=33,clothing,250,4,1000.00
+77=77,tools,120,5,600.00
+88=88,household,200,2,400.00
+99=99,stationery,15,10,150.00
+12=12,groceries,60,6,360.00
+13=13,pet supplies,100,4,400.00
+14=14,office equipment,450,1,450.00
+15=15,home decorations,175,3,525.00
+16=16,kitchenware,90,8,720.00
+17=17,automotive,300,2,600.00
+18=18,sporting goods,120,5,600.00
+19=19,fitness,250,3,750.00
+20=20,musical instruments,600,1,600.00
